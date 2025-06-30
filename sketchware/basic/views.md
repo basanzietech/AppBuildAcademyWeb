@@ -1,9 +1,4 @@
----
-title: View
-description: What is a view? How do they work? Let's see them in detail.
-sidebar_position: 1
-slug: view
----
+## View
 
 A view is a graphical element of your app. It can be a button, text, image etc. Views construct the user interface of an Android app. Before you start programming your app, you must design it.
 
