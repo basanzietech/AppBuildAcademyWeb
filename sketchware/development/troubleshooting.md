@@ -9,3 +9,5 @@ In this section, we'll cover common issues that developers may encounter during 
 ## Error Handling and Logging
 * Try-catch blocks: Used to catch and handle exceptions
 * Logging: Used to track down issues and diagnose problems
+
+## More about this section coming soon
