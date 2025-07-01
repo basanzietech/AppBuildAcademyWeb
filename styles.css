@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #666;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}
+
+.social-media-links {
+  margin-top: 20px;
+}
+
+.social-media-links a {
+  margin-right: 10px;
+}
